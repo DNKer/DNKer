@@ -32,6 +32,13 @@
 
 </div>
 
+---
+
+### :fire: Статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DNKer&theme=material)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DNKer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **DNKer/DNKer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
