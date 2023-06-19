@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет! Hi! 👋
 
 <div id="badges" align="center">
   <img src="giphyg.gif" width="150" height="150"/>
