@@ -19,7 +19,7 @@
 ---
 
 ### :man_technologist: Обо мне :
-Я начинающий python разработчик. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> из России.
+Увлекаюсь web разработкой. Python, html, css <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 
 ---
 
